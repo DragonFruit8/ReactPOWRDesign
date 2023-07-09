@@ -42,7 +42,6 @@ const Promo = () => {
                   <select className="form-control" id="name" onChange={(e) => handleshowhide(e)}>
                     <option>Choose...</option>
                     <option value='Cash'>Fast Cash</option>
-                    <option value='Credit'>Credit Boosters</option>
                     <option value='Education'>Education Promos</option>
                   </select>
                 </div>
